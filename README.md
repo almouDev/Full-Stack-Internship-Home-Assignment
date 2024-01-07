@@ -83,4 +83,4 @@ To run the frontend project, we have just to run the following commands in a ter
 Still we assume that you have Node environment in your computer
 
 If all the server are running, you can go and hint http://localhost:3000 in your web browser
-        
+You should be able to see a button for uploading a file
